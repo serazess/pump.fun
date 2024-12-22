@@ -1,7 +1,7 @@
 # overview
 
 A bot for sniping transactions in Pump.fun on the Solana blockchain using C# and the Solnet library.
-
+![](https://github.com/serazess/pump.fun/blob/main/screenshot.png?raw=true)
 ## Features
 
 - Connects to the Solana MainNet.
